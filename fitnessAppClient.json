@@ -1,0 +1,8 @@
+{
+    "url": "http://localhost:5173/",
+    "endpoints": {
+        "register": "/register",
+        "login": "/login",
+        "workouts": "/workouts"
+    }
+}
